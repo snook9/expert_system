@@ -1,0 +1,9 @@
+B D E -> F;
+G D -> A;
+F C -> A;
+B -> X ;
+E -> D ;
+A X -> H ;
+C  -> D ;
+X C -> A ;
+X B -> D ;
